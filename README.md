@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerSoto92
 - 👀 I’m interested  aprender mas sobre programación
-- 🌱 I’m currently learning  html, css , react , js
+- 🌱 I’m currently learning  html, css , js ,react
 - 💞️ I’m looking to collaborate on  proyector donde puedan guiarme y seguir creciendo y aprendiento mas sobre la programacion
 - 📫 How to reach me  fersotoser@gmail.com
 
